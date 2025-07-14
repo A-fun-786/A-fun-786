@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md Affan Ahmed</h1>
 <h3 align="center">Software Engineer with 3+ years of professional experience in building and deploying successful applications with state of the art ML models. Possesses an ability to solve real-life problems using codified solution. I am well versed in Android application development and languages: Python, Java, Kotlin, NLP, Computer Vision, ML and Cloud libraries for model deployment.</h3>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif" width="50px">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-fun-786&label=Profile%20views&color=0e75b6&style=flat" alt="a-fun-786" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-fun-786" alt="a-fun-786" /></a> </p>
